@@ -15,7 +15,7 @@ A One-Day IoT course for Polytech (and others).
 
 ## Prerequisites
 
-- A Microsoft Account ([Create one here](https://account.microsoft.com/account/Account))
+- A Microsoft Account ([Create one here](https://account.microsoft.com/account/Account?WT.mc_id=startup-0000-chmaneu))
 - An Azure Subscription ([Create one here](https://azure.microsoft.com/free/students?wt.mc_id=academic-6241-chmaneu))
 - A computer with Docker, [Visual Studio Code](https://code.visualstudio.com?wt.mc_id=academic-6241-chmaneu), and [Remote Development Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack&wt.mc_id=academic-6241-chmaneu).
 - NodeJS _or_ .NET Core installed on your machine (you can use Remote Desktop Extensions for this)
