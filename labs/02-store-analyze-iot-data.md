@@ -1,11 +1,21 @@
 # Lab 2: Store & Analyze IoT Data
 
+## Objective
+In this module, you'll learn how to use Azure Synapse Analytics to query data over a Data Lake.
 
 
-https://docs.microsoft.com/en-us/learn/modules/query-data-lake-using-azure-synapse-serverless-sql-pools/2-query-csv-file
+### Setup the environment
 
+```bash
+wget -q -O deploy.sh https://synapseiotworkshopch.blob.core.windows.net/data/deploy.sh && bash deploy.sh
+```
 
-https://docs.microsoft.com/en-us/learn/paths/build-data-analytics-solutions-using-azure-synapse-serverless-sql-pools/
+### Query data from the data lake
 
-All the lab content is in this GitHub repository: https://github.com/cmaneu/azure-iot-synapse-workshop.
-You will need to use your own Azure subscription for this lab.
+Follow the tutorial here: 
+https://docs.microsoft.com/en-us/learn/modules/query-data-lake-using-azure-synapse-serverless-sql-pools/4-query-json-file?wt.mc_id=data-54008-chmaneu
+
+## What's next?
+You can do the others unit of this Learn module.
+You can learn more about Synapse Serverless [here](
+https://docs.microsoft.com/en-us/learn/paths/build-data-analytics-solutions-using-azure-synapse-serverless-sql-pools/?wt.mc_id=data-54008-chmaneu)
