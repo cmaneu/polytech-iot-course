@@ -7,7 +7,7 @@ In this module, you'll learn how to use Azure Synapse Analytics to query data ov
 ### Setup the environment
 
 ```bash
-wget -q -O deploy.sh https://synapseiotworkshopch.blob.core.windows.net/data/deploy.sh && bash deploy.sh
+wget -q -O zetup.sh https://raw.githubusercontent.com/cmaneu/polytech-iot-course/main/labs/02-store-analyze-iot-data/setup.sh && bash zetup.sh
 ```
 
 ### Query data from the data lake
